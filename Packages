@@ -1,0 +1,14 @@
+Package: zxas
+Version: 1.0
+Architecture: all
+Maintainer: Dereck
+Depends: python3
+Filename: ./zxAs.deb
+Size: 1316
+MD5sum: 3ad771f4133d3e00bfaaa4eacbc59b9b
+SHA1: edad2ce299d7d7ed24f2c52d7a64c201dfe49168
+SHA256: 4d14636502c41c318e7f28a999a96577afe101514970b8ea653dcdd527a95c6e
+Section: editors
+Priority: optional
+Description: zxAs terminal code editor
+
